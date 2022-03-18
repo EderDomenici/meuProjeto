@@ -1,0 +1,18 @@
+[
+    {
+        "codigo":1,
+        "titulo":"Velozes e Furiosos 1",
+        "duracao":1.51,
+        "atores":["Ator1","Ator2","Ator3"],
+        "anoLancamento":2000,
+        "emCartaz": true
+    },
+    {
+        "codigo":2,
+        "titulo":"Velozes e Furiosos 2",
+        "duracao":1.60,
+        "atores":["Ator1","Ator2","Ator3"],
+        "anoLancamento":2000,
+        "emCartaz":false
+    }
+]
